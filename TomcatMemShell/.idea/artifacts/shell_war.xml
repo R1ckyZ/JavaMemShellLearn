@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shell:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shell</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="shell-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="shell:war exploded" />
+    </root>
+  </artifact>
+</component>
