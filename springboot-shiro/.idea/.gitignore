@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\safetool\Tools\webleak\POC\Exploit\java\javatest\Java-Study-source\java内存马\ShiroMemShell\springboot-shiro\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
